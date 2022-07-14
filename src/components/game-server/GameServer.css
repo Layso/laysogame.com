@@ -1,0 +1,48 @@
+.game-server-main {
+    text-align: center;
+    color: white;
+    margin: 16px;
+    padding: 16px;
+    background: gray;
+}
+
+.game {
+    display: inline-block;
+    width: 250px;
+    color: white;
+}
+
+.name {
+    display: inline-block;
+    width: 150px;
+    color: white;
+}
+
+.location {
+    display: inline-block;
+    width: 150px;
+    color: white;
+}
+
+.ip {
+    display: inline-block;
+    width: 250px;
+    color: white;
+    cursor: pointer;
+}
+
+.ip-text {
+    display: inline-block;
+}
+
+.copy-img {
+    display: inline-block;
+    height: 22px;
+    margin-bottom: -6px;
+}
+
+.players {
+    display: inline-block;
+    width: 150px;
+    color: white;
+}

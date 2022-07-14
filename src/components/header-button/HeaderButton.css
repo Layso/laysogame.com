@@ -1,0 +1,9 @@
+.button-main {
+    color: white;
+    background-color: #2d2d2d;
+    font-weight: 600;
+    padding: 8px;
+    margin: 8px;
+    display:inline-block;
+    width: 120px;
+}

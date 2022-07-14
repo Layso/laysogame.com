@@ -1,0 +1,35 @@
+.game-server-header-main {
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    font-size: 14pt;
+    margin: 16px;
+    margin-top: 50px;
+    padding: 8px;
+    background: gray;
+}
+
+.header-game {
+    display: inline-block;
+    width: 250px;
+}
+
+.header-name {
+    display: inline-block;
+    width: 150px;
+}
+
+.header-location {
+    display: inline-block;
+    width: 150px;
+}
+
+.header-ip {
+    display: inline-block;
+    width: 250px;
+}
+
+.header-players {
+    display: inline-block;
+    width: 150px;
+}
